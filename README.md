@@ -1,2 +1,2 @@
 # projeto_python_livia
-processo de aprendizagem com python
+Criei esse repositorio com intuito de compartilhar todo meu processo de aprendizagem com programação em python
